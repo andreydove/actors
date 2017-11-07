@@ -1,0 +1,40 @@
+D:\Program\StudyCountryCA v2\StudyCountryCA\obj\Debug\ActorsCA.csprojResolveAssemblyReference.cache
+D:\Program\StudyCountryCA v2\StudyCountryCA\bin\Debug\ActorsCA.exe.config
+D:\Program\StudyCountryCA v2\StudyCountryCA\bin\Debug\ActorsCA.exe
+D:\Program\StudyCountryCA v2\StudyCountryCA\bin\Debug\ActorsCA.pdb
+D:\Program\StudyCountryCA v2\StudyCountryCA\obj\Debug\ActorsCA.exe
+D:\Program\StudyCountryCA v2\StudyCountryCA\obj\Debug\ActorsCA.pdb
+D:\Program\StudyCountryCA v2\StudyCountryCA\bin\Debug\ActorsCL.dll
+D:\Program\StudyCountryCA v2\StudyCountryCA\bin\Debug\ActorsCL.pdb
+D:\Program\Actors\StudyCountryCA\bin\Debug\ActorsCA.exe.config
+D:\Program\Actors\StudyCountryCA\obj\Debug\ActorsCA.exe
+D:\Program\Actors\StudyCountryCA\obj\Debug\ActorsCA.pdb
+D:\Program\Actors\StudyCountryCA\obj\Debug\ActorsCA.csprojResolveAssemblyReference.cache
+D:\Program\Actors\StudyCountryCA\bin\Debug\ActorsCA.exe
+D:\Program\Actors\StudyCountryCA\bin\Debug\ActorsCA.pdb
+D:\Program\Actors\StudyCountryCA\bin\Debug\ActorsCL.dll
+D:\Program\Actors\StudyCountryCA\bin\Debug\ActorsCL.pdb
+D:\Program\Actors\StudyActorsCA\bin\Debug\ActorsCA.exe.config
+D:\Program\Actors\StudyActorsCA\obj\Debug\ActorsCA.exe
+D:\Program\Actors\StudyActorsCA\obj\Debug\ActorsCA.pdb
+D:\Program\Actors\StudyActorsCA\obj\Debug\ActorsCA.csprojResolveAssemblyReference.cache
+D:\Program\Actors\StudyActorsCA\bin\Debug\ActorsCA.exe
+D:\Program\Actors\StudyActorsCA\bin\Debug\ActorsCA.pdb
+D:\Program\Actors\StudyActorsCA\bin\Debug\ActorsCL.dll
+D:\Program\Actors\StudyActorsCA\bin\Debug\ActorsCL.pdb
+C:\Users\Андрей\Desktop\Практика\StudyActors\Actors\StudyActorsCA\bin\Debug\ActorsCA.exe.config
+C:\Users\Андрей\Desktop\Практика\StudyActors\Actors\StudyActorsCA\bin\Debug\ActorsCA.exe
+C:\Users\Андрей\Desktop\Практика\StudyActors\Actors\StudyActorsCA\bin\Debug\ActorsCA.pdb
+C:\Users\Андрей\Desktop\Практика\StudyActors\Actors\StudyActorsCA\bin\Debug\ActorsCL.dll
+C:\Users\Андрей\Desktop\Практика\StudyActors\Actors\StudyActorsCA\bin\Debug\ActorsCL.pdb
+C:\Users\Андрей\Desktop\Практика\StudyActors\Actors\StudyActorsCA\obj\Debug\ActorsCA.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\Практика\StudyActors\Actors\StudyActorsCA\obj\Debug\ActorsCA.exe
+C:\Users\Андрей\Desktop\Практика\StudyActors\Actors\StudyActorsCA\obj\Debug\ActorsCA.pdb
+C:\Users\Андрей\Desktop\StudyActors v2.09\Actors\StudyActorsCA\obj\Debug\ActorsCA.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\StudyActors v2.09\Actors\StudyActorsCA\obj\Debug\ActorsCA.exe
+C:\Users\Андрей\Desktop\StudyActors v2.09\Actors\StudyActorsCA\bin\Debug\ActorsCA.exe.config
+C:\Users\Андрей\Desktop\StudyActors v2.09\Actors\StudyActorsCA\bin\Debug\ActorsCA.exe
+C:\Users\Андрей\Desktop\StudyActors v2.09\Actors\StudyActorsCA\bin\Debug\ActorsCA.pdb
+C:\Users\Андрей\Desktop\StudyActors v2.09\Actors\StudyActorsCA\bin\Debug\ActorsCL.dll
+C:\Users\Андрей\Desktop\StudyActors v2.09\Actors\StudyActorsCA\bin\Debug\ActorsCL.pdb
+C:\Users\Андрей\Desktop\StudyActors v2.09\Actors\StudyActorsCA\obj\Debug\ActorsCA.pdb

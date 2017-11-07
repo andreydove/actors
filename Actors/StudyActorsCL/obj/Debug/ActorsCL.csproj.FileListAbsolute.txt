@@ -1,0 +1,49 @@
+D:\Program\StudyCountryCA v2\StudyCountryCL\obj\Debug\ActorsCL.csprojResolveAssemblyReference.cache
+D:\Program\StudyCountryCA v2\StudyCountryCL\bin\Debug\ActorsCL.dll
+D:\Program\StudyCountryCA v2\StudyCountryCL\bin\Debug\ActorsCL.pdb
+D:\Program\StudyCountryCA v2\StudyCountryCL\obj\Debug\ActorsCL.dll
+D:\Program\StudyCountryCA v2\StudyCountryCL\obj\Debug\ActorsCL.pdb
+D:\Program\Actors\StudyCountryCL\bin\Debug\ActorsCL.dll
+D:\Program\Actors\StudyCountryCL\bin\Debug\ActorsCL.pdb
+D:\Program\Actors\StudyCountryCL\obj\Debug\ActorsCL.csprojResolveAssemblyReference.cache
+D:\Program\Actors\StudyCountryCL\obj\Debug\ActorsCL.dll
+D:\Program\Actors\StudyCountryCL\obj\Debug\ActorsCL.pdb
+D:\Program\Actors\StudyActorsCL\bin\Debug\ActorsCL.dll
+D:\Program\Actors\StudyActorsCL\bin\Debug\ActorsCL.pdb
+D:\Program\Actors\StudyActorsCL\obj\Debug\ActorsCL.csprojResolveAssemblyReference.cache
+D:\Program\Actors\StudyActorsCL\obj\Debug\ActorsCL.dll
+D:\Program\Actors\StudyActorsCL\obj\Debug\ActorsCL.pdb
+C:\Users\Андрей\Desktop\Практика\StudyActors\Actors\StudyActorsCL\bin\Debug\ActorsCL.dll
+C:\Users\Андрей\Desktop\Практика\StudyActors\Actors\StudyActorsCL\bin\Debug\ActorsCL.pdb
+C:\Users\Андрей\Desktop\Практика\StudyActors\Actors\StudyActorsCL\obj\Debug\ActorsCL.dll
+C:\Users\Андрей\Desktop\Практика\StudyActors\Actors\StudyActorsCL\obj\Debug\ActorsCL.pdb
+D:\Program Backup\StudyActors v4 — копия\Actors\StudyActorsCL\bin\Debug\ActorsCL.dll
+D:\Program Backup\StudyActors v4 — копия\Actors\StudyActorsCL\bin\Debug\ActorsCL.pdb
+D:\Program Backup\StudyActors v4 — копия\Actors\StudyActorsCL\obj\Debug\ActorsCL.dll
+D:\Program Backup\StudyActors v4 — копия\Actors\StudyActorsCL\obj\Debug\ActorsCL.pdb
+C:\Users\Андрей\Desktop\Практика\StudyActors\Actors\StudyActorsCL\obj\Debug\ActorsCL.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\Практика\StudyActors — копия\Actors\StudyActorsCL\bin\Debug\ActorsCL.dll
+C:\Users\Андрей\Desktop\Практика\StudyActors — копия\Actors\StudyActorsCL\bin\Debug\ActorsCL.pdb
+C:\Users\Андрей\Desktop\Практика\StudyActors — копия\Actors\StudyActorsCL\obj\Debug\ActorsCL.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\Практика\StudyActors — копия\Actors\StudyActorsCL\obj\Debug\ActorsCL.dll
+C:\Users\Андрей\Desktop\Практика\StudyActors — копия\Actors\StudyActorsCL\obj\Debug\ActorsCL.pdb
+D:\Program Backup\StudyActors в6\Actors\StudyActorsCL\bin\Debug\ActorsCL.dll
+D:\Program Backup\StudyActors в6\Actors\StudyActorsCL\bin\Debug\ActorsCL.pdb
+D:\Program Backup\StudyActors в6\Actors\StudyActorsCL\obj\Debug\ActorsCL.csprojResolveAssemblyReference.cache
+D:\Program Backup\StudyActors в6\Actors\StudyActorsCL\obj\Debug\ActorsCL.dll
+D:\Program Backup\StudyActors в6\Actors\StudyActorsCL\obj\Debug\ActorsCL.pdb
+C:\Users\Андрей\Desktop\StudyActors\Actors\StudyActorsCL\bin\Debug\ActorsCL.dll
+C:\Users\Андрей\Desktop\StudyActors\Actors\StudyActorsCL\bin\Debug\ActorsCL.pdb
+C:\Users\Андрей\Desktop\StudyActors\Actors\StudyActorsCL\obj\Debug\ActorsCL.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\StudyActors\Actors\StudyActorsCL\obj\Debug\ActorsCL.dll
+C:\Users\Андрей\Desktop\StudyActors\Actors\StudyActorsCL\obj\Debug\ActorsCL.pdb
+C:\Users\Андрей\Desktop\StudyActors v2.09\Actors\StudyActorsCL\obj\Debug\ActorsCL.dll
+C:\Users\Андрей\Desktop\StudyActors v2.09\Actors\StudyActorsCL\obj\Debug\ActorsCL.pdb
+C:\Users\Андрей\Desktop\StudyActors v2.09\Actors\StudyActorsCL\bin\Debug\ActorsCL.dll
+C:\Users\Андрей\Desktop\StudyActors v2.09\Actors\StudyActorsCL\bin\Debug\ActorsCL.pdb
+C:\Users\Андрей\Desktop\StudyActors v2.09\Actors\StudyActorsCL\obj\Debug\ActorsCL.csprojResolveAssemblyReference.cache
+D:\Other\Курсова програмування\StudyActors\Actors\StudyActorsCL\bin\Debug\ActorsCL.dll
+D:\Other\Курсова програмування\StudyActors\Actors\StudyActorsCL\bin\Debug\ActorsCL.pdb
+D:\Other\Курсова програмування\StudyActors\Actors\StudyActorsCL\obj\Debug\ActorsCL.csprojResolveAssemblyReference.cache
+D:\Other\Курсова програмування\StudyActors\Actors\StudyActorsCL\obj\Debug\ActorsCL.dll
+D:\Other\Курсова програмування\StudyActors\Actors\StudyActorsCL\obj\Debug\ActorsCL.pdb

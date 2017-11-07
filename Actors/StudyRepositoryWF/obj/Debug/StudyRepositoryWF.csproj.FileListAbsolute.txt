@@ -1,0 +1,175 @@
+D:\Program\StudyCountryCA\StudyRepositoryWF\bin\Debug\StudyRepositoryWF.exe.config
+D:\Program\StudyCountryCA\StudyRepositoryWF\bin\Debug\StudyRepositoryWF.exe
+D:\Program\StudyCountryCA\StudyRepositoryWF\bin\Debug\StudyRepositoryWF.pdb
+D:\Program\StudyCountryCA\StudyRepositoryWF\bin\Debug\StudyCountryCL.dll
+D:\Program\StudyCountryCA\StudyRepositoryWF\bin\Debug\StudyCountryCL.pdb
+D:\Program\StudyCountryCA\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.csprojResolveAssemblyReference.cache
+D:\Program\StudyCountryCA\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.FRepository.resources
+D:\Program\StudyCountryCA\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.Properties.Resources.resources
+D:\Program\StudyCountryCA\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.csproj.GenerateResource.Cache
+D:\Program\StudyCountryCA\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.exe
+D:\Program\StudyCountryCA\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.pdb
+D:\Program\Actors — копия\StudyRepositoryWF\bin\Debug\StudyRepositoryWF.exe.config
+D:\Program\Actors — копия\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.exe
+D:\Program\Actors — копия\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.pdb
+D:\Program\Actors — копия\StudyRepositoryWF\bin\Debug\StudyRepositoryWF.exe
+D:\Program\Actors — копия\StudyRepositoryWF\bin\Debug\StudyRepositoryWF.pdb
+D:\Program\Actors — копия\StudyRepositoryWF\bin\Debug\ActorsCL.dll
+D:\Program\Actors — копия\StudyRepositoryWF\bin\Debug\ActorsCL.pdb
+D:\Program\Actors — копия\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.csprojResolveAssemblyReference.cache
+D:\Program\Actors — копия\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.FRepository.resources
+D:\Program\Actors — копия\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.Properties.Resources.resources
+D:\Program\Actors — копия\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.csproj.GenerateResource.Cache
+D:\Program\Actors\StudyRepositoryWF\bin\Debug\StudyRepositoryWF.exe.config
+D:\Program\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.exe
+D:\Program\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.pdb
+D:\Program\Actors\StudyRepositoryWF\bin\Debug\StudyRepositoryWF.exe
+D:\Program\Actors\StudyRepositoryWF\bin\Debug\StudyRepositoryWF.pdb
+D:\Program\Actors\StudyRepositoryWF\bin\Debug\ActorsCL.dll
+D:\Program\Actors\StudyRepositoryWF\bin\Debug\ActorsCL.pdb
+D:\Program\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.csprojResolveAssemblyReference.cache
+D:\Program\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.FRepository.resources
+D:\Program\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.Properties.Resources.resources
+D:\Program\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.csproj.GenerateResource.Cache
+D:\Program\Actors v3\StudyRepositoryWF\bin\Debug\StudyRepositoryWF.exe.config
+D:\Program\Actors v3\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.exe
+D:\Program\Actors v3\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.pdb
+C:\Users\Андрей\Desktop\Практика\StudyActors\Actors\StudyRepositoryWF\bin\Debug\StudyRepositoryWF.exe.config
+C:\Users\Андрей\Desktop\Практика\StudyActors\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.exe
+C:\Users\Андрей\Desktop\Практика\StudyActors\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.pdb
+C:\Users\Андрей\Desktop\Практика\StudyActors\Actors\StudyRepositoryWF\bin\Debug\StudyRepositoryWF.exe
+C:\Users\Андрей\Desktop\Практика\StudyActors\Actors\StudyRepositoryWF\bin\Debug\StudyRepositoryWF.pdb
+C:\Users\Андрей\Desktop\Практика\StudyActors\Actors\StudyRepositoryWF\bin\Debug\ActorsCL.dll
+C:\Users\Андрей\Desktop\Практика\StudyActors\Actors\StudyRepositoryWF\bin\Debug\ActorsCL.pdb
+C:\Users\Андрей\Desktop\Практика\StudyActors\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\Практика\StudyActors\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.FRepository.resources
+C:\Users\Андрей\Desktop\Практика\StudyActors\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.Properties.Resources.resources
+C:\Users\Андрей\Desktop\Практика\StudyActors\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.csproj.GenerateResource.Cache
+C:\Users\Андрей\Desktop\Практика\StudyActors\Actors\StudyRepositoryWF\bin\Debug\StudyFormsLibrary.dll
+C:\Users\Андрей\Desktop\Практика\StudyActors\Actors\StudyRepositoryWF\bin\Debug\StudyFormsLibrary.pdb
+D:\Program Backup\StudyActors v4\Actors\StudyRepositoryWF\bin\Debug\StudyRepositoryWF.exe.config
+D:\Program Backup\StudyActors v4\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.exe
+D:\Program Backup\StudyActors v4\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.csprojResolveAssemblyReference.cache
+D:\Program Backup\StudyActors v4\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.FRepository.resources
+D:\Program Backup\StudyActors v4\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.Properties.Resources.resources
+D:\Program Backup\StudyActors v4\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.csproj.GenerateResource.Cache
+D:\Program Backup\StudyActors v4 — копия\Actors\StudyRepositoryWF\bin\Debug\StudyRepositoryWF.exe.config
+D:\Program Backup\StudyActors v4 — копия\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.exe
+D:\Program Backup\StudyActors v4 — копия\Actors\StudyRepositoryWF\bin\Debug\StudyRepositoryWF.exe
+D:\Program Backup\StudyActors v4 — копия\Actors\StudyRepositoryWF\bin\Debug\StudyRepositoryWF.pdb
+D:\Program Backup\StudyActors v4 — копия\Actors\StudyRepositoryWF\bin\Debug\ActorsCL.dll
+D:\Program Backup\StudyActors v4 — копия\Actors\StudyRepositoryWF\bin\Debug\StudyFormsLibrary.dll
+D:\Program Backup\StudyActors v4 — копия\Actors\StudyRepositoryWF\bin\Debug\ActorsCL.pdb
+D:\Program Backup\StudyActors v4 — копия\Actors\StudyRepositoryWF\bin\Debug\StudyFormsLibrary.pdb
+D:\Program Backup\StudyActors v4 — копия\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.csprojResolveAssemblyReference.cache
+D:\Program Backup\StudyActors v4 — копия\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.DataTableForms.FGenreOfFilms.resources
+D:\Program Backup\StudyActors v4 — копия\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.FRepository.resources
+D:\Program Backup\StudyActors v4 — копия\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.Properties.Resources.resources
+D:\Program Backup\StudyActors v4 — копия\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.csproj.GenerateResource.Cache
+D:\Program Backup\StudyActors v4 — копия\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.pdb
+C:\Users\Андрей\Desktop\Практика\StudyActors\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.DataTableForms.FGenreOfFilms.resources
+C:\Users\Андрей\Desktop\Практика\StudyActors 1\Actors\StudyRepositoryWF\bin\Debug\StudyRepositoryWF.exe.config
+C:\Users\Андрей\Desktop\Практика\StudyActors 1\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.exe
+C:\Users\Андрей\Desktop\Практика\StudyActors 1\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\Практика\StudyActors 1\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.DataTableForms.FGenreOfFilms.resources
+C:\Users\Андрей\Desktop\Практика\StudyActors 1\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.FRepository.resources
+C:\Users\Андрей\Desktop\Практика\StudyActors 1\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.Properties.Resources.resources
+C:\Users\Андрей\Desktop\Практика\StudyActors 1\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.csproj.GenerateResource.Cache
+C:\Users\Андрей\Desktop\Практика\StudyActors 1\Actors\StudyRepositoryWF\bin\Debug\StudyRepositoryWF.exe
+C:\Users\Андрей\Desktop\Практика\StudyActors 1\Actors\StudyRepositoryWF\bin\Debug\StudyRepositoryWF.pdb
+C:\Users\Андрей\Desktop\Практика\StudyActors 1\Actors\StudyRepositoryWF\bin\Debug\ActorsCL.dll
+C:\Users\Андрей\Desktop\Практика\StudyActors 1\Actors\StudyRepositoryWF\bin\Debug\StudyFormsLibrary.dll
+C:\Users\Андрей\Desktop\Практика\StudyActors 1\Actors\StudyRepositoryWF\bin\Debug\ActorsCL.pdb
+C:\Users\Андрей\Desktop\Практика\StudyActors 1\Actors\StudyRepositoryWF\bin\Debug\StudyFormsLibrary.pdb
+C:\Users\Андрей\Desktop\Практика\StudyActors 1\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.pdb
+C:\Users\Андрей\Desktop\Практика\StudyActors — копия\Actors\StudyRepositoryWF\bin\Debug\StudyRepositoryWF.exe.config
+C:\Users\Андрей\Desktop\Практика\StudyActors — копия\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.exe
+C:\Users\Андрей\Desktop\Практика\StudyActors — копия\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.pdb
+C:\Users\Андрей\Desktop\Практика\StudyActors — копия\Actors\StudyRepositoryWF\bin\Debug\StudyRepositoryWF.exe
+C:\Users\Андрей\Desktop\Практика\StudyActors — копия\Actors\StudyRepositoryWF\bin\Debug\StudyRepositoryWF.pdb
+C:\Users\Андрей\Desktop\Практика\StudyActors — копия\Actors\StudyRepositoryWF\bin\Debug\ActorsCL.dll
+C:\Users\Андрей\Desktop\Практика\StudyActors — копия\Actors\StudyRepositoryWF\bin\Debug\StudyFormsLibrary.dll
+C:\Users\Андрей\Desktop\Практика\StudyActors — копия\Actors\StudyRepositoryWF\bin\Debug\ActorsCL.pdb
+C:\Users\Андрей\Desktop\Практика\StudyActors — копия\Actors\StudyRepositoryWF\bin\Debug\StudyFormsLibrary.pdb
+C:\Users\Андрей\Desktop\Практика\StudyActors — копия\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\Практика\StudyActors — копия\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.DataTableForms.FGenreOfFilms.resources
+C:\Users\Андрей\Desktop\Практика\StudyActors — копия\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.FRepository.resources
+C:\Users\Андрей\Desktop\Практика\StudyActors — копия\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.Properties.Resources.resources
+C:\Users\Андрей\Desktop\Практика\StudyActors — копия\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.csproj.GenerateResource.Cache
+D:\Program Backup\StudyActors в6\Actors\StudyRepositoryWF\bin\Debug\StudyRepositoryWF.exe.config
+D:\Program Backup\StudyActors в6\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.exe
+D:\Program Backup\StudyActors в6\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.pdb
+D:\Program Backup\StudyActors в6\Actors\StudyRepositoryWF\bin\Debug\StudyRepositoryWF.exe
+D:\Program Backup\StudyActors в6\Actors\StudyRepositoryWF\bin\Debug\StudyRepositoryWF.pdb
+D:\Program Backup\StudyActors в6\Actors\StudyRepositoryWF\bin\Debug\ActorsCL.dll
+D:\Program Backup\StudyActors в6\Actors\StudyRepositoryWF\bin\Debug\StudyFormsLibrary.dll
+D:\Program Backup\StudyActors в6\Actors\StudyRepositoryWF\bin\Debug\ActorsCL.pdb
+D:\Program Backup\StudyActors в6\Actors\StudyRepositoryWF\bin\Debug\StudyFormsLibrary.pdb
+D:\Program Backup\StudyActors в6\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.csprojResolveAssemblyReference.cache
+D:\Program Backup\StudyActors в6\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.DataTableForms.FGenreOfFilms.resources
+D:\Program Backup\StudyActors в6\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.FRepository.resources
+D:\Program Backup\StudyActors в6\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.Properties.Resources.resources
+D:\Program Backup\StudyActors в6\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.csproj.GenerateResource.Cache
+C:\Users\Андрей\Desktop\StudyActors\Actors\StudyRepositoryWF\bin\Debug\StudyRepositoryWF.exe.config
+C:\Users\Андрей\Desktop\StudyActors\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.exe
+C:\Users\Андрей\Desktop\StudyActors\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.pdb
+C:\Users\Андрей\Desktop\StudyActors\Actors\StudyRepositoryWF\bin\Debug\StudyRepositoryWF.exe
+C:\Users\Андрей\Desktop\StudyActors\Actors\StudyRepositoryWF\bin\Debug\StudyRepositoryWF.pdb
+C:\Users\Андрей\Desktop\StudyActors\Actors\StudyRepositoryWF\bin\Debug\ActorsCL.dll
+C:\Users\Андрей\Desktop\StudyActors\Actors\StudyRepositoryWF\bin\Debug\StudyFormsLibrary.dll
+C:\Users\Андрей\Desktop\StudyActors\Actors\StudyRepositoryWF\bin\Debug\ActorsCL.pdb
+C:\Users\Андрей\Desktop\StudyActors\Actors\StudyRepositoryWF\bin\Debug\StudyFormsLibrary.pdb
+C:\Users\Андрей\Desktop\StudyActors\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\StudyActors\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.FRepository.resources
+C:\Users\Андрей\Desktop\StudyActors\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.Properties.Resources.resources
+C:\Users\Андрей\Desktop\StudyActors\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.csproj.GenerateResource.Cache
+C:\Users\Андрей\Desktop\StudyActors v2.09\Actors\StudyRepositoryWF\bin\Debug\StudyRepositoryWF.exe.config
+C:\Users\Андрей\Desktop\StudyActors v2.09\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.exe
+C:\Users\Андрей\Desktop\StudyActors v2.09\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.pdb
+C:\Users\Андрей\Desktop\StudyActors v2.09\Actors\StudyRepositoryWF\bin\Debug\StudyRepositoryWF.exe
+C:\Users\Андрей\Desktop\StudyActors v2.09\Actors\StudyRepositoryWF\bin\Debug\StudyRepositoryWF.pdb
+C:\Users\Андрей\Desktop\StudyActors v2.09\Actors\StudyRepositoryWF\bin\Debug\ActorsCL.dll
+C:\Users\Андрей\Desktop\StudyActors v2.09\Actors\StudyRepositoryWF\bin\Debug\StudyFormsLibrary.dll
+C:\Users\Андрей\Desktop\StudyActors v2.09\Actors\StudyRepositoryWF\bin\Debug\ActorsCL.pdb
+C:\Users\Андрей\Desktop\StudyActors v2.09\Actors\StudyRepositoryWF\bin\Debug\StudyFormsLibrary.pdb
+C:\Users\Андрей\Desktop\StudyActors v2.09\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\StudyActors v2.09\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.FRepository.resources
+C:\Users\Андрей\Desktop\StudyActors v2.09\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.Properties.Resources.resources
+C:\Users\Андрей\Desktop\StudyActors v2.09\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.csproj.GenerateResource.Cache
+C:\Users\Андрей\Desktop\StudyActors v2.09\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.DataTableForms.FGenreOfFilmsTable.resources
+C:\Users\Андрей\Desktop\StudyActors v2.09\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.DataTableForms.FResultsTable.resources
+C:\Users\Андрей\Desktop\StudyActors v2.09\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.DataTableForms.FActorsTable.resources
+C:\Users\Андрей\Desktop\StudyActors v2.09\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.DataTableForms.FFilmsTable.resources
+C:\Users\Андрей\Desktop\StudyActors v2.09\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.DataTableForms.FCompetitionTable.resources
+C:\Users\Андрей\Desktop\StudyActors v2.09\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.DataTableForms.FCountryTable.resources
+C:\Users\Андрей\Desktop\StudyActors v2.09\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.DataTableForms.FGenresTable.resources
+C:\Users\Андрей\Desktop\StudyActors v2.09\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.DataTableForms.FRolesTable.resources
+C:\Users\Андрей\Desktop\StudyActors\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.DataTableForms.FActorsTable.resources
+C:\Users\Андрей\Desktop\StudyActors\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.DataTableForms.FCompetitionTable.resources
+C:\Users\Андрей\Desktop\StudyActors\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.DataTableForms.FCountryTable.resources
+C:\Users\Андрей\Desktop\StudyActors\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.DataTableForms.FFilmsTable.resources
+C:\Users\Андрей\Desktop\StudyActors\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.DataTableForms.FGenreOfFilmsTable.resources
+C:\Users\Андрей\Desktop\StudyActors\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.DataTableForms.FGenresTable.resources
+C:\Users\Андрей\Desktop\StudyActors\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.DataTableForms.FResultsTable.resources
+C:\Users\Андрей\Desktop\StudyActors\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.DataTableForms.FRolesTable.resources
+D:\Other\Курсова програмування\StudyActors\Actors\StudyRepositoryWF\bin\Debug\StudyRepositoryWF.exe.config
+D:\Other\Курсова програмування\StudyActors\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.exe
+D:\Other\Курсова програмування\StudyActors\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.pdb
+D:\Other\Курсова програмування\StudyActors\Actors\StudyRepositoryWF\bin\Debug\StudyRepositoryWF.exe
+D:\Other\Курсова програмування\StudyActors\Actors\StudyRepositoryWF\bin\Debug\StudyRepositoryWF.pdb
+D:\Other\Курсова програмування\StudyActors\Actors\StudyRepositoryWF\bin\Debug\ActorsCL.dll
+D:\Other\Курсова програмування\StudyActors\Actors\StudyRepositoryWF\bin\Debug\StudyFormsLibrary.dll
+D:\Other\Курсова програмування\StudyActors\Actors\StudyRepositoryWF\bin\Debug\ActorsCL.pdb
+D:\Other\Курсова програмування\StudyActors\Actors\StudyRepositoryWF\bin\Debug\StudyFormsLibrary.pdb
+D:\Other\Курсова програмування\StudyActors\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.csprojResolveAssemblyReference.cache
+D:\Other\Курсова програмування\StudyActors\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.DataTableForms.FActorsTable.resources
+D:\Other\Курсова програмування\StudyActors\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.DataTableForms.FCompetitionTable.resources
+D:\Other\Курсова програмування\StudyActors\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.DataTableForms.FCountryTable.resources
+D:\Other\Курсова програмування\StudyActors\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.DataTableForms.FFilmsTable.resources
+D:\Other\Курсова програмування\StudyActors\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.DataTableForms.FGenreOfFilmsTable.resources
+D:\Other\Курсова програмування\StudyActors\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.DataTableForms.FGenresTable.resources
+D:\Other\Курсова програмування\StudyActors\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.DataTableForms.FResultsTable.resources
+D:\Other\Курсова програмування\StudyActors\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.DataTableForms.FRolesTable.resources
+D:\Other\Курсова програмування\StudyActors\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.FRepository.resources
+D:\Other\Курсова програмування\StudyActors\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.Properties.Resources.resources
+D:\Other\Курсова програмування\StudyActors\Actors\StudyRepositoryWF\obj\Debug\StudyRepositoryWF.csproj.GenerateResource.Cache

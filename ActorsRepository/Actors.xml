@@ -1,0 +1,719 @@
+<?xml version="1.0" standalone="yes"?>
+<ActorsRepository>
+  <Actors>
+    <ID>1</ID>
+    <CommonName>Вілл Сміт</CommonName>
+    <FormalName>Віллард Крістофер «Вілл» Сміт молодший</FormalName>
+    <CountryID>1</CountryID>
+    <BirthDate>1968-09-25T22:22:49+03:00</BirthDate>
+    <Age>45</Age>
+    <MaritalStatus>одружений</MaritalStatus>
+    <Description>Дуже гарний актор</Description>
+    <Site>http://www.willsmith.com/</Site>
+    <Note>Афроамериканець</Note>
+  </Actors>
+  <Actors>
+    <ID>2</ID>
+    <CommonName>Джонні Депп</CommonName>
+    <FormalName>Джон Кристофер Депп ІІ</FormalName>
+    <CountryID>1</CountryID>
+    <BirthDate>1963-06-09T22:22:49+03:00</BirthDate>
+    <Age>51</Age>
+    <MaritalStatus>заручений</MaritalStatus>
+  </Actors>
+  <Actors>
+    <ID>3</ID>
+    <CommonName>Ченнінг Татум</CommonName>
+    <FormalName>Че́ннінг Тату́м</FormalName>
+    <CountryID>1</CountryID>
+    <BirthDate>1980-04-26T22:22:49+03:00</BirthDate>
+    <Age>34</Age>
+    <MaritalStatus>одружений</MaritalStatus>
+  </Actors>
+  <Actors>
+    <ID>4</ID>
+    <CommonName>Дженніфер Еністон</CommonName>
+    <FormalName>Дже́нніфер Лін Е́ністон</FormalName>
+    <CountryID>1</CountryID>
+    <BirthDate>1969-02-11T22:22:49+02:00</BirthDate>
+    <Age>45</Age>
+    <MaritalStatus>є хлопець</MaritalStatus>
+  </Actors>
+  <Actors>
+    <ID>5</ID>
+    <CommonName>Скарлетт Йоганссон</CommonName>
+    <FormalName>Ска́рлетт Мері Йоганссон</FormalName>
+    <CountryID>1</CountryID>
+    <BirthDate>1984-11-22T22:22:49+02:00</BirthDate>
+    <Age>29</Age>
+    <MaritalStatus>заручена</MaritalStatus>
+    <Description>Неймовірно приваблива</Description>
+  </Actors>
+  <Actors>
+    <ID>6</ID>
+    <CommonName>Бред Пітт</CommonName>
+    <FormalName>Ві́льям Бре́длі Пітт</FormalName>
+    <CountryID>1</CountryID>
+    <BirthDate>1963-12-18T22:22:49+02:00</BirthDate>
+    <Age>50</Age>
+    <MaritalStatus>одружений</MaritalStatus>
+  </Actors>
+  <Actors>
+    <ID>7</ID>
+    <CommonName>Джим Керрі</CommonName>
+    <FormalName>Джеймс Юджі́н Ке́ррі</FormalName>
+    <CountryID>2</CountryID>
+    <BirthDate>1962-01-17T22:22:49+02:00</BirthDate>
+    <Age>52</Age>
+    <MaritalStatus>вільний</MaritalStatus>
+  </Actors>
+  <Actors>
+    <ID>8</ID>
+    <CommonName>Арнольд Шварценеггер</CommonName>
+    <FormalName>Арно́льд Алоіс Шварцене́ґґер</FormalName>
+    <CountryID>3</CountryID>
+    <BirthDate>1947-07-30T22:22:49+03:00</BirthDate>
+    <Age>66</Age>
+    <MaritalStatus>вільний</MaritalStatus>
+  </Actors>
+  <Actors>
+    <ID>9</ID>
+    <CommonName>Сальма Хаєк</CommonName>
+    <FormalName>Са́льма Ха́єк Хіме́нес</FormalName>
+    <CountryID>4</CountryID>
+    <BirthDate>1966-09-02T22:22:49+03:00</BirthDate>
+    <Age>47</Age>
+    <MaritalStatus>одружена</MaritalStatus>
+  </Actors>
+  <Actors>
+    <ID>10</ID>
+    <CommonName>Марк Волберг</CommonName>
+    <FormalName>Марк Роберт Майкл Волберг</FormalName>
+    <CountryID>1</CountryID>
+    <BirthDate>1971-06-05T22:22:49+03:00</BirthDate>
+    <Age>43</Age>
+    <MaritalStatus>одружений</MaritalStatus>
+  </Actors>
+  <Actors>
+    <ID>11</ID>
+    <CommonName>Дженніфер Лоуренс</CommonName>
+    <FormalName>Дженніфер Шрадер Лоуренс</FormalName>
+    <CountryID>1</CountryID>
+    <BirthDate>1990-06-15T22:22:49+03:00</BirthDate>
+    <Age>23</Age>
+    <MaritalStatus>вільна</MaritalStatus>
+  </Actors>
+  <Actors>
+    <ID>12</ID>
+    <CommonName>Емма Стоун</CommonName>
+    <FormalName>Емілі Джин «Емма» Стоун</FormalName>
+    <CountryID>1</CountryID>
+    <BirthDate>1988-11-06T22:22:49+02:00</BirthDate>
+    <Age>25</Age>
+    <MaritalStatus>є хлопець</MaritalStatus>
+  </Actors>
+  <Actors>
+    <ID>13</ID>
+    <CommonName>Емілія Кларк</CommonName>
+    <FormalName>Емілія Кларк</FormalName>
+    <CountryID>5</CountryID>
+    <BirthDate>1987-05-01T22:22:49+03:00</BirthDate>
+    <Age>27</Age>
+    <MaritalStatus>вільна</MaritalStatus>
+  </Actors>
+  <Actors>
+    <ID>14</ID>
+    <CommonName>Пенелопа Крус</CommonName>
+    <FormalName>Пенело́па Крус Са́нчес</FormalName>
+    <CountryID>6</CountryID>
+    <BirthDate>1974-04-28T22:22:49+03:00</BirthDate>
+    <Age>40</Age>
+    <MaritalStatus>ожружена</MaritalStatus>
+  </Actors>
+  <Actors>
+    <ID>15</ID>
+    <CommonName>Зак Галіфіанакіс</CommonName>
+    <FormalName>Захаріус Галіфіанакіс</FormalName>
+    <CountryID>1</CountryID>
+    <BirthDate>1969-10-01T22:22:49+03:00</BirthDate>
+    <Age>44</Age>
+    <MaritalStatus>одружений</MaritalStatus>
+  </Actors>
+  <Actors>
+    <ID>16</ID>
+    <CommonName>Дензел Вашингтон</CommonName>
+    <FormalName>Дензел Гейз Вашингтон, молодший</FormalName>
+    <CountryID>1</CountryID>
+    <BirthDate>1954-12-28T22:22:49+02:00</BirthDate>
+    <Age>59</Age>
+    <MaritalStatus>одружений</MaritalStatus>
+  </Actors>
+  <Actors>
+    <ID>17</ID>
+    <CommonName>Колін Фаррелл</CommonName>
+    <FormalName>Ко́лін Дже́ймс Фа́ррелл</FormalName>
+    <CountryID>7</CountryID>
+    <BirthDate>1976-05-31T22:22:49+03:00</BirthDate>
+    <Age>38</Age>
+    <MaritalStatus>вільний</MaritalStatus>
+  </Actors>
+  <Actors>
+    <ID>18</ID>
+    <CommonName>Кріс Еванс</CommonName>
+    <FormalName>Крістофер Роберт «Кріс» Еванс</FormalName>
+    <CountryID>1</CountryID>
+    <BirthDate>1981-06-13T22:22:49+03:00</BirthDate>
+    <Age>32</Age>
+    <MaritalStatus>вільний</MaritalStatus>
+  </Actors>
+  <Actors>
+    <ID>19</ID>
+    <CommonName>Майкл Фассбендер</CommonName>
+    <FormalName>Майкл Фассбендер</FormalName>
+    <CountryID>7</CountryID>
+    <BirthDate>1977-04-02T22:22:49+03:00</BirthDate>
+    <Age>37</Age>
+    <MaritalStatus>є дівчина</MaritalStatus>
+  </Actors>
+  <Actors>
+    <ID>20</ID>
+    <CommonName>Емма Робертс</CommonName>
+    <FormalName>Е́мма Ро́уз Ро́бертс</FormalName>
+    <CountryID>1</CountryID>
+    <BirthDate>1991-02-10T22:22:49+02:00</BirthDate>
+    <Age>23</Age>
+    <MaritalStatus>заручена</MaritalStatus>
+  </Actors>
+  <Actors>
+    <ID>21</ID>
+    <CommonName>5678</CommonName>
+    <FormalName>6789</FormalName>
+    <CountryID>2</CountryID>
+    <Age>31</Age>
+    <MaritalStatus>789</MaritalStatus>
+  </Actors>
+  <Competition>
+    <ID>1</ID>
+    <Competition>Золотий глобус</Competition>
+  </Competition>
+  <Competition>
+    <ID>2</ID>
+    <Competition>Кінопремія MTV</Competition>
+  </Competition>
+  <Competition>
+    <ID>3</ID>
+    <Competition>Оскар</Competition>
+  </Competition>
+  <Competition>
+    <ID>4</ID>
+    <Competition>Сезар</Competition>
+  </Competition>
+  <Competition>
+    <ID>5</ID>
+    <Competition>BAFTA</Competition>
+  </Competition>
+  <Competition>
+    <ID>6</ID>
+    <Competition>Золота малина</Competition>
+  </Competition>
+  <Competition>
+    <ID>7</ID>
+    <Competition>Еммі</Competition>
+  </Competition>
+  <Competition>
+    <ID>8</ID>
+    <Competition>Сатурн</Competition>
+  </Competition>
+  <Competition>
+    <ID>9</ID>
+    <Competition>Премія Гільдії акторів</Competition>
+  </Competition>
+  <Country>
+    <ID>1</ID>
+    <Country>США</Country>
+  </Country>
+  <Country>
+    <ID>2</ID>
+    <Country>Канада</Country>
+  </Country>
+  <Country>
+    <ID>3</ID>
+    <Country>Австрія</Country>
+  </Country>
+  <Country>
+    <ID>4</ID>
+    <Country>Мексика</Country>
+  </Country>
+  <Country>
+    <ID>5</ID>
+    <Country>Великобританія</Country>
+  </Country>
+  <Country>
+    <ID>6</ID>
+    <Country>Іспанія</Country>
+  </Country>
+  <Country>
+    <ID>7</ID>
+    <Country>Ірландія</Country>
+  </Country>
+  <Films>
+    <ID>1</ID>
+    <FilmName>Я — легенда</FilmName>
+    <ReleaseDate>2007</ReleaseDate>
+    <Studio>Warner Bros. Pictures</Studio>
+  </Films>
+  <Films>
+    <ID>2</ID>
+    <FilmName>Самотній Рейнджер</FilmName>
+    <ReleaseDate>2013</ReleaseDate>
+    <Studio>Walt Disney Pictures</Studio>
+  </Films>
+  <Films>
+    <ID>3</ID>
+    <FilmName>Люди Ікс: Апокаліпсис</FilmName>
+    <ReleaseDate>2016</ReleaseDate>
+    <Studio>20th Century Fox</Studio>
+  </Films>
+  <Films>
+    <ID>4</ID>
+    <FilmName>Ми — Міллери</FilmName>
+    <ReleaseDate>2013</ReleaseDate>
+    <Studio>New Line Cinema</Studio>
+  </Films>
+  <Films>
+    <ID>5</ID>
+    <FilmName>Месники: Ера Альтрона</FilmName>
+    <ReleaseDate>2015</ReleaseDate>
+    <Studio>Marvel Studios</Studio>
+  </Films>
+  <Films>
+    <ID>6</ID>
+    <FilmName>Радник </FilmName>
+    <ReleaseDate>2013</ReleaseDate>
+    <Studio>20th Century Fox</Studio>
+  </Films>
+  <Films>
+    <ID>7</ID>
+    <FilmName>Пипець 2</FilmName>
+    <ReleaseDate>2013</ReleaseDate>
+    <Studio>Universal Pictures</Studio>
+  </Films>
+  <Films>
+    <ID>8</ID>
+    <FilmName>Термінатор: Зародження</FilmName>
+    <ReleaseDate>2015</ReleaseDate>
+    <Studio>Paramount Pictures</Studio>
+  </Films>
+  <Films>
+    <ID>9</ID>
+    <FilmName>Однокласники 2</FilmName>
+    <ReleaseDate>2013</ReleaseDate>
+    <Studio>Columbia Pictures</Studio>
+  </Films>
+  <Films>
+    <ID>10</ID>
+    <FilmName>Два стволи</FilmName>
+    <ReleaseDate>2013</ReleaseDate>
+    <Studio>Universal Pictures</Studio>
+  </Films>
+  <Films>
+    <ID>11</ID>
+    <FilmName>Нова Людина-павук 2. Висока напруга</FilmName>
+    <ReleaseDate>2014</ReleaseDate>
+    <Studio>Marvel Studios</Studio>
+  </Films>
+  <Films>
+    <ID>12</ID>
+    <FilmName>Похмілля у Вегасі 3</FilmName>
+    <ReleaseDate>2013</ReleaseDate>
+    <Studio>Legendary Pictures</Studio>
+  </Films>
+  <Films>
+    <ID>13</ID>
+    <FilmName>Нестерпні боси</FilmName>
+    <ReleaseDate>2011</ReleaseDate>
+    <Studio>New Line Cinema</Studio>
+  </Films>
+  <Results>
+    <ActorID>1</ActorID>
+    <CompetitionID>1</CompetitionID>
+    <Nomination>Найгірша чоловіча роль 2 плану</Nomination>
+    <Year>2014</Year>
+    <Result>Перемога</Result>
+  </Results>
+  <Results>
+    <ActorID>2</ActorID>
+    <CompetitionID>3</CompetitionID>
+    <Nomination>Найкраща чоловіча роль</Nomination>
+    <Year>2008</Year>
+    <Result>Номінація</Result>
+  </Results>
+  <Results>
+    <ActorID>3</ActorID>
+    <CompetitionID>2</CompetitionID>
+    <Nomination>Найкращий герой</Nomination>
+    <Year>2014</Year>
+    <Result>Номінація</Result>
+  </Results>
+  <Results>
+    <ActorID>4</ActorID>
+    <CompetitionID>1</CompetitionID>
+    <Nomination>Найкраща жіноча роль на ТВ (комедія/мюзикл)</Nomination>
+    <Year>2003</Year>
+    <Result>Перемога</Result>
+  </Results>
+  <Results>
+    <ActorID>5</ActorID>
+    <CompetitionID>4</CompetitionID>
+    <Nomination>Почесний Сезар</Nomination>
+    <Year>2014</Year>
+    <Result>Перемога</Result>
+  </Results>
+  <Results>
+    <ActorID>6</ActorID>
+    <CompetitionID>3</CompetitionID>
+    <Nomination>Найкращий фільм</Nomination>
+    <Year>2014</Year>
+    <Result>Перемога</Result>
+  </Results>
+  <Results>
+    <ActorID>7</ActorID>
+    <CompetitionID>6</CompetitionID>
+    <Nomination>Найгірша чоловіча роль</Nomination>
+    <Year>2008</Year>
+    <Result>Номінація</Result>
+  </Results>
+  <Results>
+    <ActorID>8</ActorID>
+    <CompetitionID>1</CompetitionID>
+    <Nomination>Найкращий дебютант</Nomination>
+    <Year>1977</Year>
+    <Result>Перемога</Result>
+  </Results>
+  <Results>
+    <ActorID>9</ActorID>
+    <CompetitionID>6</CompetitionID>
+    <Nomination>Найгірша жіноча роль 2 плану</Nomination>
+    <Year>2000</Year>
+    <Result>Номінація</Result>
+  </Results>
+  <Results>
+    <ActorID>10</ActorID>
+    <CompetitionID>2</CompetitionID>
+    <Nomination>Визнання покоління</Nomination>
+    <Year>2014</Year>
+    <Result>Перемога</Result>
+  </Results>
+  <Results>
+    <ActorID>11</ActorID>
+    <CompetitionID>1</CompetitionID>
+    <Nomination>Найкраща жіноча роль 2 плану</Nomination>
+    <Year>2014</Year>
+    <Result>Перемога</Result>
+  </Results>
+  <Results>
+    <ActorID>12</ActorID>
+    <CompetitionID>2</CompetitionID>
+    <Nomination>Найкраща комедійна роль</Nomination>
+    <Year>2011</Year>
+    <Result>Перемога</Result>
+  </Results>
+  <Results>
+    <ActorID>13</ActorID>
+    <CompetitionID>9</CompetitionID>
+    <Nomination>Найкращий акторський склад дрматичного серіалу</Nomination>
+    <Year>2014</Year>
+    <Result>Номінація</Result>
+  </Results>
+  <Results>
+    <ActorID>14</ActorID>
+    <CompetitionID>3</CompetitionID>
+    <Nomination>Найкраща жіноча роль 2 плану</Nomination>
+    <Year>2009</Year>
+    <Result>Перемога</Result>
+  </Results>
+  <Results>
+    <ActorID>15</ActorID>
+    <CompetitionID>2</CompetitionID>
+    <Nomination>Найкращий екранний дует</Nomination>
+    <Year>2013</Year>
+    <Result>Номінація</Result>
+  </Results>
+  <Results>
+    <ActorID>16</ActorID>
+    <CompetitionID>3</CompetitionID>
+    <Nomination>Найкраща чоловіча роль</Nomination>
+    <Year>2002</Year>
+    <Result>Перемога</Result>
+  </Results>
+  <Results>
+    <ActorID>17</ActorID>
+    <CompetitionID>6</CompetitionID>
+    <Nomination>Найгірша чоловіча роль</Nomination>
+    <Year>2005</Year>
+    <Result>Номінація</Result>
+  </Results>
+  <Results>
+    <ActorID>18</ActorID>
+    <CompetitionID>8</CompetitionID>
+    <Nomination>Найкращий актор</Nomination>
+    <Year>2012</Year>
+    <Result>Номінація</Result>
+  </Results>
+  <Results>
+    <ActorID>19</ActorID>
+    <CompetitionID>9</CompetitionID>
+    <Nomination>Найкращий акторський склад</Nomination>
+    <Year>2010</Year>
+    <Result>Перемога</Result>
+  </Results>
+  <Results>
+    <ActorID>20</ActorID>
+    <CompetitionID>2</CompetitionID>
+    <Nomination>Найкращий поцілунок</Nomination>
+    <Year>2014</Year>
+    <Result>Номінація</Result>
+  </Results>
+  <Roles>
+    <ActorID>1</ActorID>
+    <FilmID>1</FilmID>
+    <Role>Доктор Роберт Невіл</Role>
+  </Roles>
+  <Roles>
+    <ActorID>2</ActorID>
+    <FilmID>2</FilmID>
+    <Role>Тонто</Role>
+  </Roles>
+  <Roles>
+    <ActorID>3</ActorID>
+    <FilmID>3</FilmID>
+    <Role>Ремі Лебо (Гамбіт)</Role>
+  </Roles>
+  <Roles>
+    <ActorID>11</ActorID>
+    <FilmID>3</FilmID>
+    <Role>Рейвен Даркхолм (Містик)</Role>
+  </Roles>
+  <Roles>
+    <ActorID>19</ActorID>
+    <FilmID>3</FilmID>
+    <Role>Ерік Леншер (Магнето)</Role>
+  </Roles>
+  <Roles>
+    <ActorID>4</ActorID>
+    <FilmID>4</FilmID>
+    <Role>Сара «Роуз» О'Райлі</Role>
+  </Roles>
+  <Roles>
+    <ActorID>20</ActorID>
+    <FilmID>4</FilmID>
+    <Role>Кейсі Метіс</Role>
+  </Roles>
+  <Roles>
+    <ActorID>5</ActorID>
+    <FilmID>5</FilmID>
+    <Role>Наташа Романова (Чорна Вдова)</Role>
+  </Roles>
+  <Roles>
+    <ActorID>18</ActorID>
+    <FilmID>5</FilmID>
+    <Role>Стів Роджерс (Капітан Америка)</Role>
+  </Roles>
+  <Roles>
+    <ActorID>6</ActorID>
+    <FilmID>6</FilmID>
+    <Role>Вестрей</Role>
+  </Roles>
+  <Roles>
+    <ActorID>19</ActorID>
+    <FilmID>6</FilmID>
+    <Role>Радник</Role>
+  </Roles>
+  <Roles>
+    <ActorID>14</ActorID>
+    <FilmID>6</FilmID>
+    <Role>Лаура</Role>
+  </Roles>
+  <Roles>
+    <ActorID>7</ActorID>
+    <FilmID>7</FilmID>
+    <Role>Сел Бертолінні / Полковник Зірки і Смуги</Role>
+  </Roles>
+  <Roles>
+    <ActorID>8</ActorID>
+    <FilmID>8</FilmID>
+    <Role>Термінатор</Role>
+  </Roles>
+  <Roles>
+    <ActorID>13</ActorID>
+    <FilmID>8</FilmID>
+    <Role>Сара Конор</Role>
+  </Roles>
+  <Roles>
+    <ActorID>9</ActorID>
+    <FilmID>9</FilmID>
+    <Role>Раксана «Роксі» Чейс-Федер</Role>
+  </Roles>
+  <Roles>
+    <ActorID>10</ActorID>
+    <FilmID>10</FilmID>
+    <Role>Майкл «Стіґ» Стіґман</Role>
+  </Roles>
+  <Roles>
+    <ActorID>16</ActorID>
+    <FilmID>10</FilmID>
+    <Role>Роберт «Боббі» Тренч</Role>
+  </Roles>
+  <Roles>
+    <ActorID>12</ActorID>
+    <FilmID>11</FilmID>
+    <Role>Ґвен Стейсі</Role>
+  </Roles>
+  <Roles>
+    <ActorID>15</ActorID>
+    <FilmID>11</FilmID>
+    <Role>Алан Гарнер</Role>
+  </Roles>
+  <Roles>
+    <ActorID>17</ActorID>
+    <FilmID>13</FilmID>
+    <Role>Бобі Пеліт</Role>
+  </Roles>
+  <Roles>
+    <ActorID>4</ActorID>
+    <FilmID>13</FilmID>
+    <Role>Доктор Джулія Харіс</Role>
+  </Roles>
+  <Genres>
+    <ID>1</ID>
+    <Genre>Бойовик</Genre>
+  </Genres>
+  <Genres>
+    <ID>2</ID>
+    <Genre>Триллер</Genre>
+  </Genres>
+  <Genres>
+    <ID>3</ID>
+    <Genre>Драма</Genre>
+  </Genres>
+  <Genres>
+    <ID>4</ID>
+    <Genre>Комедія</Genre>
+  </Genres>
+  <Genres>
+    <ID>5</ID>
+    <Genre>Пригоди</Genre>
+  </Genres>
+  <Genres>
+    <ID>6</ID>
+    <Genre>Жахи</Genre>
+  </Genres>
+  <Genres>
+    <ID>7</ID>
+    <Genre>Фантастика</Genre>
+  </Genres>
+  <Genres>
+    <ID>8</ID>
+    <Genre>Фентезі</Genre>
+  </Genres>
+  <Genres>
+    <ID>9</ID>
+    <Genre>Вестерн</Genre>
+  </Genres>
+  <Genres>
+    <ID>10</ID>
+    <Genre>Кримінал</Genre>
+  </Genres>
+  <GenreOfFilms>
+    <GenreID>2</GenreID>
+    <FilmID>10</FilmID>
+  </GenreOfFilms>
+  <GenreOfFilms>
+    <GenreID>10</GenreID>
+    <FilmID>10</FilmID>
+  </GenreOfFilms>
+  <GenreOfFilms>
+    <GenreID>5</GenreID>
+    <FilmID>3</FilmID>
+  </GenreOfFilms>
+  <GenreOfFilms>
+    <GenreID>1</GenreID>
+    <FilmID>3</FilmID>
+  </GenreOfFilms>
+  <GenreOfFilms>
+    <GenreID>1</GenreID>
+    <FilmID>5</FilmID>
+  </GenreOfFilms>
+  <GenreOfFilms>
+    <GenreID>7</GenreID>
+    <FilmID>5</FilmID>
+  </GenreOfFilms>
+  <GenreOfFilms>
+    <GenreID>4</GenreID>
+    <FilmID>4</FilmID>
+  </GenreOfFilms>
+  <GenreOfFilms>
+    <GenreID>10</GenreID>
+    <FilmID>4</FilmID>
+  </GenreOfFilms>
+  <GenreOfFilms>
+    <GenreID>4</GenreID>
+    <FilmID>13</FilmID>
+  </GenreOfFilms>
+  <GenreOfFilms>
+    <GenreID>8</GenreID>
+    <FilmID>11</FilmID>
+  </GenreOfFilms>
+  <GenreOfFilms>
+    <GenreID>1</GenreID>
+    <FilmID>11</FilmID>
+  </GenreOfFilms>
+  <GenreOfFilms>
+    <GenreID>4</GenreID>
+    <FilmID>12</FilmID>
+  </GenreOfFilms>
+  <GenreOfFilms>
+    <GenreID>5</GenreID>
+    <FilmID>12</FilmID>
+  </GenreOfFilms>
+  <GenreOfFilms>
+    <GenreID>4</GenreID>
+    <FilmID>9</FilmID>
+  </GenreOfFilms>
+  <GenreOfFilms>
+    <GenreID>4</GenreID>
+    <FilmID>7</FilmID>
+  </GenreOfFilms>
+  <GenreOfFilms>
+    <GenreID>1</GenreID>
+    <FilmID>7</FilmID>
+  </GenreOfFilms>
+  <GenreOfFilms>
+    <GenreID>2</GenreID>
+    <FilmID>6</FilmID>
+  </GenreOfFilms>
+  <GenreOfFilms>
+    <GenreID>9</GenreID>
+    <FilmID>2</FilmID>
+  </GenreOfFilms>
+  <GenreOfFilms>
+    <GenreID>5</GenreID>
+    <FilmID>2</FilmID>
+  </GenreOfFilms>
+  <GenreOfFilms>
+    <GenreID>7</GenreID>
+    <FilmID>8</FilmID>
+  </GenreOfFilms>
+  <GenreOfFilms>
+    <GenreID>2</GenreID>
+    <FilmID>8</FilmID>
+  </GenreOfFilms>
+  <GenreOfFilms>
+    <GenreID>3</GenreID>
+    <FilmID>1</FilmID>
+  </GenreOfFilms>
+  <GenreOfFilms>
+    <GenreID>6</GenreID>
+    <FilmID>1</FilmID>
+  </GenreOfFilms>
+</ActorsRepository>

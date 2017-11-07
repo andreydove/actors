@@ -1,0 +1,29 @@
+C:\Users\Андрей\Desktop\Практика\StudyActors\Actors\StudyFormsLibrary\obj\Debug\StudyFormsLibrary.DataTableForms.BaseTableForm.resources
+C:\Users\Андрей\Desktop\Практика\StudyActors\Actors\StudyFormsLibrary\obj\Debug\StudyFormsLibrary.Properties.Resources.resources
+C:\Users\Андрей\Desktop\Практика\StudyActors\Actors\StudyFormsLibrary\obj\Debug\StudyFormsLibrary.csproj.GenerateResource.Cache
+C:\Users\Андрей\Desktop\Практика\StudyActors\Actors\StudyFormsLibrary\bin\Debug\StudyFormsLibrary.dll.config
+C:\Users\Андрей\Desktop\Практика\StudyActors\Actors\StudyFormsLibrary\bin\Debug\StudyFormsLibrary.dll
+C:\Users\Андрей\Desktop\Практика\StudyActors\Actors\StudyFormsLibrary\bin\Debug\StudyFormsLibrary.pdb
+C:\Users\Андрей\Desktop\Практика\StudyActors\Actors\StudyFormsLibrary\obj\Debug\StudyFormsLibrary.dll
+C:\Users\Андрей\Desktop\Практика\StudyActors\Actors\StudyFormsLibrary\obj\Debug\StudyFormsLibrary.pdb
+C:\Users\Андрей\Desktop\Практика\StudyActors\Actors\StudyFormsLibrary\obj\Debug\StudyFormsLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\StudyActors v2.09\Actors\StudyFormsLibrary\bin\Debug\StudyFormsLibrary.dll.config
+C:\Users\Андрей\Desktop\StudyActors v2.09\Actors\StudyFormsLibrary\bin\Debug\StudyFormsLibrary.dll
+C:\Users\Андрей\Desktop\StudyActors v2.09\Actors\StudyFormsLibrary\bin\Debug\StudyFormsLibrary.pdb
+C:\Users\Андрей\Desktop\StudyActors v2.09\Actors\StudyFormsLibrary\obj\Debug\StudyFormsLibrary.DataTableForms.BaseTableForm.resources
+C:\Users\Андрей\Desktop\StudyActors v2.09\Actors\StudyFormsLibrary\obj\Debug\StudyFormsLibrary.Properties.Resources.resources
+C:\Users\Андрей\Desktop\StudyActors v2.09\Actors\StudyFormsLibrary\obj\Debug\StudyFormsLibrary.csproj.GenerateResource.Cache
+C:\Users\Андрей\Desktop\StudyActors v2.09\Actors\StudyFormsLibrary\obj\Debug\StudyFormsLibrary.dll
+C:\Users\Андрей\Desktop\StudyActors v2.09\Actors\StudyFormsLibrary\obj\Debug\StudyFormsLibrary.pdb
+C:\Users\Андрей\Desktop\StudyActors v2.09\Actors\StudyFormsLibrary\obj\Debug\StudyFormsLibrary.DataTableForms.EntityTableForm.resources
+C:\Users\Андрей\Desktop\StudyActors v2.09\Actors\StudyFormsLibrary\obj\Debug\StudyFormsLibrary.csprojResolveAssemblyReference.cache
+D:\Other\Курсова програмування\StudyActors\Actors\StudyFormsLibrary\bin\Debug\StudyFormsLibrary.dll.config
+D:\Other\Курсова програмування\StudyActors\Actors\StudyFormsLibrary\bin\Debug\StudyFormsLibrary.dll
+D:\Other\Курсова програмування\StudyActors\Actors\StudyFormsLibrary\bin\Debug\StudyFormsLibrary.pdb
+D:\Other\Курсова програмування\StudyActors\Actors\StudyFormsLibrary\obj\Debug\StudyFormsLibrary.csprojResolveAssemblyReference.cache
+D:\Other\Курсова програмування\StudyActors\Actors\StudyFormsLibrary\obj\Debug\StudyFormsLibrary.DataTableForms.BaseTableForm.resources
+D:\Other\Курсова програмування\StudyActors\Actors\StudyFormsLibrary\obj\Debug\StudyFormsLibrary.DataTableForms.EntityTableForm.resources
+D:\Other\Курсова програмування\StudyActors\Actors\StudyFormsLibrary\obj\Debug\StudyFormsLibrary.Properties.Resources.resources
+D:\Other\Курсова програмування\StudyActors\Actors\StudyFormsLibrary\obj\Debug\StudyFormsLibrary.csproj.GenerateResource.Cache
+D:\Other\Курсова програмування\StudyActors\Actors\StudyFormsLibrary\obj\Debug\StudyFormsLibrary.dll
+D:\Other\Курсова програмування\StudyActors\Actors\StudyFormsLibrary\obj\Debug\StudyFormsLibrary.pdb

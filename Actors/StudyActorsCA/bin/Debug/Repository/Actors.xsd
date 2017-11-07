@@ -1,0 +1,132 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="ActorsRepository" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="ActorsRepository" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Actor">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ActorID" type="xs:int" />
+              <xs:element name="CountryID" type="xs:int" />
+              <xs:element name="Name" type="xs:string" />
+              <xs:element name="FormalName" type="xs:string" />
+              <xs:element name="BirthDate" type="xs:dateTime" />
+              <xs:element name="Age" type="xs:int" minOccurs="0" />
+              <xs:element name="MarialStatus" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Competition">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CompetitionID" type="xs:string" minOccurs="0" />
+              <xs:element name="Competition" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Country">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CountryID" type="xs:int" />
+              <xs:element name="Country" type="xs:string" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Films">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="FilmID" type="xs:int" />
+              <xs:element name="Name" type="xs:string" />
+              <xs:element name="ReleaseDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Studio" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Results">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ActorID" type="xs:int" />
+              <xs:element name="NominationID" type="xs:int" minOccurs="0" />
+              <xs:element name="Year" type="xs:int" minOccurs="0" />
+              <xs:element name="Result" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Roles">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ActorID" type="xs:int" />
+              <xs:element name="FilmID" type="xs:int" />
+              <xs:element name="Role" type="xs:string" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Nomination">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="NominationID" type="xs:int" />
+              <xs:element name="CompetitonID" type="xs:int" />
+              <xs:element name="Nomination" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Genres">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="GenreID" type="xs:int" />
+              <xs:element name="Genre" type="xs:string" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1">
+      <xs:selector xpath=".//Actor" />
+      <xs:field xpath="ActorID" />
+    </xs:unique>
+    <xs:unique name="Constraint2">
+      <xs:selector xpath=".//Actor" />
+      <xs:field xpath="Name" />
+    </xs:unique>
+    <xs:unique name="Constraint3">
+      <xs:selector xpath=".//Actor" />
+      <xs:field xpath="FormalName" />
+    </xs:unique>
+    <xs:unique name="Constraint4">
+      <xs:selector xpath=".//Actor" />
+      <xs:field xpath="BirthDate" />
+    </xs:unique>
+    <xs:unique name="Country_Constraint1" msdata:ConstraintName="Constraint1">
+      <xs:selector xpath=".//Country" />
+      <xs:field xpath="CountryID" />
+    </xs:unique>
+    <xs:unique name="Films_Constraint1" msdata:ConstraintName="Constraint1">
+      <xs:selector xpath=".//Films" />
+      <xs:field xpath="FilmID" />
+    </xs:unique>
+    <xs:unique name="Results_Constraint1" msdata:ConstraintName="Constraint1">
+      <xs:selector xpath=".//Results" />
+      <xs:field xpath="ActorID" />
+    </xs:unique>
+    <xs:unique name="Roles_Constraint1" msdata:ConstraintName="Constraint1">
+      <xs:selector xpath=".//Roles" />
+      <xs:field xpath="ActorID" />
+    </xs:unique>
+    <xs:unique name="Roles_Constraint2" msdata:ConstraintName="Constraint2">
+      <xs:selector xpath=".//Roles" />
+      <xs:field xpath="FilmID" />
+    </xs:unique>
+    <xs:unique name="Roles_Constraint3" msdata:ConstraintName="Constraint3">
+      <xs:selector xpath=".//Roles" />
+      <xs:field xpath="Role" />
+    </xs:unique>
+    <xs:unique name="Nomination_Constraint1" msdata:ConstraintName="Constraint1">
+      <xs:selector xpath=".//Nomination" />
+      <xs:field xpath="NominationID" />
+    </xs:unique>
+    <xs:unique name="Genres_Constraint1" msdata:ConstraintName="Constraint1">
+      <xs:selector xpath=".//Genres" />
+      <xs:field xpath="GenreID" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

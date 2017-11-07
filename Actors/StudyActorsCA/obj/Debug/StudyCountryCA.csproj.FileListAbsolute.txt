@@ -1,0 +1,11 @@
+D:\Program\StudyCountryCA\StudyCountryCA\bin\Debug\StudyCountryCA.exe.config
+D:\Program\StudyCountryCA\StudyCountryCA\bin\Debug\StudyCountryCA.exe
+D:\Program\StudyCountryCA\StudyCountryCA\bin\Debug\StudyCountryCA.pdb
+D:\Program\StudyCountryCA\StudyCountryCA\obj\Debug\StudyCountryCA.csprojResolveAssemblyReference.cache
+D:\Program\StudyCountryCA\StudyCountryCA\obj\Debug\StudyCountryCA.exe
+D:\Program\StudyCountryCA\StudyCountryCA\obj\Debug\StudyCountryCA.pdb
+D:\Program\StudyCountryCA\StudyCountryCA\bin\Debug\StudyCountryCL.dll
+D:\Program\StudyCountryCA\StudyCountryCA\bin\Debug\StudyCountryCL.pdb
+D:\Program\StudyCountryCA v2\StudyCountryCA\bin\Debug\StudyCountryCA.exe.config
+D:\Program\StudyCountryCA v2\StudyCountryCA\obj\Debug\StudyCountryCA.exe
+D:\Program\StudyCountryCA v2\StudyCountryCA\obj\Debug\StudyCountryCA.pdb

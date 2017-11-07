@@ -1,0 +1,5 @@
+D:\Program\StudyCountryCA\StudyCountryCL\bin\Debug\StudyCountryCL.dll
+D:\Program\StudyCountryCA\StudyCountryCL\bin\Debug\StudyCountryCL.pdb
+D:\Program\StudyCountryCA\StudyCountryCL\obj\Debug\StudyCountryCL.dll
+D:\Program\StudyCountryCA\StudyCountryCL\obj\Debug\StudyCountryCL.pdb
+D:\Program\StudyCountryCA\StudyCountryCL\obj\Debug\StudyCountryCL.csprojResolveAssemblyReference.cache
